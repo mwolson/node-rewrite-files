@@ -1,0 +1,29 @@
+{
+  "name": "rewrite-files",
+  "version": "1.0.0",
+  "description": "Rewrite file contents in-place using pattern matching or a list of files",
+  "main": "lib/rewrite-files.js",
+  "scripts": {
+    "test": "mocha --reporter tap test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ticketmaster/node-rewrite-files.git"
+  },
+  "author": "Ticketmaster",
+  "license": "MIT",
+  "keywords": [
+    "glob", "files", "rewrite", "transform"
+  ],
+  "dependencies": {
+    "async": "^1.4.2",
+    "glob": "^5.0.14"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.3.0",
+    "rewire": "^2.3.4",
+    "sinon": "^1.16.1",
+    "sinon-chai": "^2.8.0"
+  }
+}
