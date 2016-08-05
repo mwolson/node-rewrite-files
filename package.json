@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ticketmaster/node-rewrite-files.git"
+    "url": "https://github.com/mwolson/node-rewrite-files.git"
   },
-  "author": "Ticketmaster",
+  "author": "Michael Olson <mwolson@member.fsf.org>",
   "license": "MIT",
   "keywords": [
     "glob", "files", "rewrite", "transform"
