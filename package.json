@@ -1,6 +1,6 @@
 {
   "name": "rewrite-files",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rewrite file contents in-place using pattern matching or a list of files",
   "main": "lib/rewrite-files.js",
   "scripts": {
@@ -13,7 +13,10 @@
   "author": "Michael Olson <mwolson@member.fsf.org>",
   "license": "MIT",
   "keywords": [
-    "glob", "files", "rewrite", "transform"
+    "glob",
+    "files",
+    "rewrite",
+    "transform"
   ],
   "dependencies": {
     "async": "^1.4.2",
